@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
 <h3 align="center">I am networking specialist / PHP Laravel backend developer:)</h3>
 
-- 🔭 I’m currently working on **Live time Laravel chat app**
+- 🔭 I’m currently working on **Symfony Cinema Project**
 
-- 🌱 I’m currently learning **PHP Laravel**
+- 🌱 I’m currently learning **PHP Symfony**
 
 - 💬 Ask me about **Network configuration basics on Cisco / Mikrotik, how to start learn programming.**
 
