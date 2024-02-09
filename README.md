@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
-<h3 align="center">I am networking specialist / PHP Laravel backend developer:)</h3>
+<h3 align="center">I am PHP Symfoy / Laravel developer</h3>
 
-- 🔭 I’m currently working on **Symfony Cinema Project**
+- 🔭 I’m currently working on **Symfony T-Shirt shop**
 
 - 🌱 I’m currently learning **PHP Symfony**
 
