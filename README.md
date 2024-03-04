@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
 <h3 align="center">I am PHP Symfoy / Laravel developer</h3>
 
-- 🔭 I’m currently working on [Symfony T-Shirt shop](https://github.com/Besp1N/symfony-tshirt-shop)
+- 🔭 I’m currently working on [Symfony Shop](https://github.com/Besp1N/symfonyShop)
 
 - 🌱 I’m currently learning **Symfony / JS**
 
