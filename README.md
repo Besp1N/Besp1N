@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on My Portfolio
 
-- 🌱 I’m currently learning **Symfony / JS** / Advanced-Css**
+- 🌱 I’m currently learning **Symfony / JS** / Advanced-Css
 
 - 💬 Ask me about **PHP, Symfony, Laravel, Networking**
 
