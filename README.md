@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
 <h3 align="center">I am PHP Symfoy / Laravel developer</h3>
 
-- 🔭 I’m currently working on **Python Sniffer**
+- 🔭 I’m currently working on **Python Sniffer / Symfony IoT on MQTT protocol**
 
 - 🌱 I’m currently learning **Magento framework**
 
