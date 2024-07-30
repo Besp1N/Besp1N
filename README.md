@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
-<h3 align="center">I am PHP Symfoy / Laravel developer</h3>
+<h3 align="center">I am PHP Symfoy / Java Spring boot developer</h3>
 
 - 🔭 I’m currently working on **Music e-learning app**
 
