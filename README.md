@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
 <h3 align="center">I am PHP Symfoy / Java Spring boot developer</h3>
 
-- 🔭 I’m currently working on **MusicGuesser AI model**
+- 🔭 I’m currently working on **Security IoT app**
 
 - 🌱 I’m currently learning **Java spring boot**
 
