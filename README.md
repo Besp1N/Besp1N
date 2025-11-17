@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kacper Karabinowski</h1>
-<h3 align="center">I am PHP Symfoy / Java Spring boot developer</h3>
+<h3 align="center">Backend/DevOps Developer</h3>
 
-- 🔭 I’m currently working on **Security IoT app**
-
-- 🌱 I’m currently learning **Java spring boot**
+- 🔭 I’m currently working on **Notification Center App**
 
 - 💬 Ask me about **PHP, Symfony, Laravel, Networking**
 
 - 📫 How to reach me **karabinowskikacper@gmail.com**
-
-- ⚡ Fun fact **Ten years ago I hated programming haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
