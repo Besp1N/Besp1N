@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Notification Center App**
 
-- 💬 Ask me about **PHP, Symfony, Laravel, Networking**
-
 - 📫 How to reach me **karabinowskikacper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
